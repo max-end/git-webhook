@@ -1,0 +1,4 @@
+path: D:\code\js\test
+password: 123123
+log-name: test.log
+bind: 0.0.0.0:8090
